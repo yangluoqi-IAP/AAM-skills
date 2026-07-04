@@ -1,0 +1,7 @@
+interface:
+  display_name: "AAM-skills"
+  short_description: "JAMES writing and reviewer audit"
+  default_prompt: "Use $aam-skills to revise my low-altitude wind-field forecasting manuscript for JAMES."
+
+policy:
+  allow_implicit_invocation: true
