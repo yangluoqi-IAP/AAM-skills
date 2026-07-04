@@ -1,4 +1,4 @@
-AAM-skills is registered as a single Codexskill: aam-skills.
+AAM-skills is registered as a single Agentskill: aam-skills.
 However, it internally supports four specific task capabilities:
 1. Draft/restructure: Drafting or restructuring the structure/chapters of a paper
 2. Polish/translate: English proofreading and academic translation between Chinese and English
