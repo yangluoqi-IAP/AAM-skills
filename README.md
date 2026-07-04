@@ -11,3 +11,9 @@ agents/: 1 agent configuration file, openai.yaml
 . Top-level main file: SKILL.md
 
 
+
+Development Team:
+Institute of Atmospheric Physics, Chinese Academy of Sciences
+
+Contact Us:
+yangluoqi@mail.iap.ac.cn
